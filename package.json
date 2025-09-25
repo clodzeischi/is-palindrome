@@ -1,0 +1,23 @@
+{
+  "name": "is-palindrome",
+  "version": "1.0.0",
+  "description": "Competency 1 Project",
+  "homepage": "https://github.com/clodzeischi/is-palindrome#readme",
+  "bugs": {
+    "url": "https://github.com/clodzeischi/is-palindrome/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clodzeischi/is-palindrome.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "./src/palindrome.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
